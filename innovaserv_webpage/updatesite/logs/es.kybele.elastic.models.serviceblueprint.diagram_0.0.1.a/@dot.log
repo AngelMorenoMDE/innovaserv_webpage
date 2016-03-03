@@ -1,0 +1,373 @@
+# 2/02/16 12:27:14 CET
+# Eclipse Compiler for Java(TM) v20150602-1242, 3.11.0, Copyright IBM Corp 2000, 2015. All rights reserved.
+----------
+1. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/CustomerActionEditPart.java (at line 31)
+	import serviceblueprint.BackStageEmployeeAction;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import serviceblueprint.BackStageEmployeeAction is never used
+----------
+----------
+2. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/OnStageEmployeeActionEditPart.java (at line 35)
+	import serviceblueprint.BackStageEmployeeAction;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import serviceblueprint.BackStageEmployeeAction is never used
+----------
+----------
+3. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/PhysicalEvidenceEditPart.java (at line 30)
+	import serviceblueprint.BackStageEmployeeAction;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import serviceblueprint.BackStageEmployeeAction is never used
+----------
+----------
+4. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/ServiceBlueprintDiagramEditPart.java (at line 3)
+	import java.nio.channels.FileChannel.MapMode;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import java.nio.channels.FileChannel.MapMode is never used
+----------
+5. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/ServiceBlueprintDiagramEditPart.java (at line 6)
+	import org.eclipse.draw2d.FigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FigureListener is never used
+----------
+----------
+6. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/SupportProcessEditPart.java (at line 31)
+	import serviceblueprint.BackStageEmployeeAction;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import serviceblueprint.BackStageEmployeeAction is never used
+----------
+----------
+7. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 3)
+	import java.awt.Cursor;
+	       ^^^^^^^^^^^^^^^
+The import java.awt.Cursor is never used
+----------
+8. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 4)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+9. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 6)
+	import javax.swing.text.StyleConstants.ColorConstants;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import javax.swing.text.StyleConstants.ColorConstants is never used
+----------
+10. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 12)
+	import org.eclipse.draw2d.geometry.Dimension;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Dimension is never used
+----------
+11. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 14)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ResizableCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ResizableCompartmentEditPart is never used
+----------
+12. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 15)
+	import org.eclipse.gmf.runtime.diagram.ui.figures.ShapeCompartmentFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.figures.ShapeCompartmentFigure is never used
+----------
+13. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 20)
+	import org.eclipse.ui.PlatformUI;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.PlatformUI is never used
+----------
+14. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/listeners/ServiceBlueprintDiagramFigureListener.java (at line 22)
+	import serviceblueprint.diagram.edit.parts.ServiceBlueprintDiagramEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import serviceblueprint.diagram.edit.parts.ServiceBlueprintDiagramEditPart is never used
+----------
+----------
+15. ERROR in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/wizards/ServiceBlueprintMultiLineEditor.java (at line 110)
+	childShell.close();
+	^^^^^^^^^^
+Cannot refer to the non-final local variable childShell defined in an enclosing scope
+----------
+16. ERROR in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/parts/wizards/ServiceBlueprintMultiLineEditor.java (at line 116)
+	childShell.close();
+	^^^^^^^^^^
+Cannot refer to the non-final local variable childShell defined in an enclosing scope
+----------
+----------
+17. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 205)
+	Collection existingLinks = new LinkedList(getDiagram().getEdges());
+	^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+18. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 205)
+	Collection existingLinks = new LinkedList(getDiagram().getEdges());
+	                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The constructor LinkedList(Collection) belongs to the raw type LinkedList. References to generic type LinkedList<E> should be parameterized
+----------
+19. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 205)
+	Collection existingLinks = new LinkedList(getDiagram().getEdges());
+	                               ^^^^^^^^^^
+LinkedList is a raw type. References to generic type LinkedList<E> should be parameterized
+----------
+20. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 206)
+	for (Iterator linksIterator = existingLinks.iterator(); linksIterator
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+21. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 237)
+	deleteViews(existingLinks.iterator());
+	            ^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type Iterator needs unchecked conversion to conform to Iterator<View>
+----------
+22. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 317)
+	for (Iterator children = view.getChildren().iterator(); children
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+23. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceBlueprintModelCanonicalEditPolicy.java (at line 322)
+	for (Iterator edges = view.getSourceEdges().iterator(); edges.hasNext();) {
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+24. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceblueprintBaseItemSemanticEditPolicy.java (at line 84)
+	request.getExtendedData().put(VISUAL_ID_KEY, id);
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method put(Object, Object) belongs to the raw type Map. References to generic type Map<K,V> should be parameterized
+----------
+25. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceblueprintBaseItemSemanticEditPolicy.java (at line 293)
+	for (Iterator it = view.getDiagram().getChildren().iterator(); it
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+26. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/edit/policies/ServiceblueprintTextNonResizableEditPolicy.java (at line 222)
+	protected List createSelectionHandles() {
+	          ^^^^
+List is a raw type. References to generic type List<E> should be parameterized
+----------
+----------
+27. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramActionBarContributor.java (at line 18)
+	protected Class getEditorClass() {
+	          ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+28. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 12)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+29. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 27)
+	import org.eclipse.jface.wizard.ProgressMonitorPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.jface.wizard.ProgressMonitorPart is never used
+----------
+30. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 29)
+	import org.eclipse.swt.SWT;
+	       ^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.SWT is never used
+----------
+31. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 30)
+	import org.eclipse.swt.graphics.Image;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.graphics.Image is never used
+----------
+32. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 31)
+	import org.eclipse.swt.layout.GridData;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.layout.GridData is never used
+----------
+33. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 32)
+	import org.eclipse.swt.layout.GridLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.layout.GridLayout is never used
+----------
+34. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 33)
+	import org.eclipse.swt.widgets.Display;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.widgets.Display is never used
+----------
+35. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramEditor.java (at line 45)
+	import serviceblueprint.diagram.edit.parts.utils.ServiceBlueprintEditPartUtils;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import serviceblueprint.diagram.edit.parts.utils.ServiceBlueprintEditPartUtils is never used
+----------
+----------
+36. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramUpdateCommand.java (at line 52)
+	List editPolicies = CanonicalEditPolicy
+	^^^^
+List is a raw type. References to generic type List<E> should be parameterized
+----------
+37. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDiagramUpdateCommand.java (at line 54)
+	for (Iterator it = editPolicies.iterator(); it.hasNext();) {
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+38. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 46)
+	import org.eclipse.gmf.runtime.diagram.ui.resources.editor.internal.EditorStatusCodes;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The type 'EditorStatusCodes' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+39. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 47)
+	import org.eclipse.gmf.runtime.diagram.ui.resources.editor.internal.util.DiagramIOUtil;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The type 'DiagramIOUtil' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+40. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 209)
+	Diagram diagram = DiagramIOUtil.load(domain, storage, true,
+	                  ^^^^^^^^^^^^^
+Discouraged access: The type 'DiagramIOUtil' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+41. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 209)
+	Diagram diagram = DiagramIOUtil.load(domain, storage, true,
+					getProgressMonitor());
+	                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The method 'DiagramIOUtil.load(TransactionalEditingDomain, IStorage, boolean, IProgressMonitor)' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+42. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 224)
+	Map options = new HashMap(
+	^^^
+Map is a raw type. References to generic type Map<K,V> should be parameterized
+----------
+43. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 224)
+	Map options = new HashMap(
+								GMFResourceFactory.getDefaultLoadOptions());
+	              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The constructor HashMap(Map) belongs to the raw type HashMap. References to generic type HashMap<K,V> should be parameterized
+----------
+44. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 224)
+	Map options = new HashMap(
+	                  ^^^^^^^
+HashMap is a raw type. References to generic type HashMap<K,V> should be parameterized
+----------
+45. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 241)
+	for (Iterator it = resource.getContents().iterator(); it
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+46. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 620)
+	EditorStatusCodes.RESOURCE_FAILURE,
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The type 'EditorStatusCodes' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+47. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 620)
+	EditorStatusCodes.RESOURCE_FAILURE,
+	                  ^^^^^^^^^^^^^^^^
+Discouraged access: The field 'EditorStatusCodes.RESOURCE_FAILURE' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+48. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/part/ServiceblueprintDocumentProvider.java (at line 1101)
+	for (Iterator/*<org.eclipse.emf.ecore.resource.Resource>*/it = myInfo
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+49. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintModelingAssistantProvider.java (at line 51)
+	protected EObject selectExistingElement(IAdaptable host, Collection types) {
+	                                                         ^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+50. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintModelingAssistantProvider.java (at line 79)
+	protected boolean isApplicableElement(EObject element, Collection types) {
+	                                                       ^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+----------
+51. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 211)
+	diagram.getStyles().add(NotationFactory.eINSTANCE.createDiagramStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+52. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 282)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+53. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 284)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+54. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 285)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFillStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+55. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 349)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+56. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 351)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+57. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 384)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+58. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 386)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+59. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 419)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+60. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 421)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+61. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 454)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+62. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 456)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+63. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 489)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+64. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 491)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+65. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 524)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createRoutingStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+66. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 525)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+67. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 599)
+	rv.getStyles().add(ts);
+	^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+68. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 602)
+	rv.getStyles().add(NotationFactory.eINSTANCE.createSortingStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+69. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.diagram/src/serviceblueprint/diagram/providers/ServiceblueprintViewProvider.java (at line 605)
+	rv.getStyles()
+					.add(NotationFactory.eINSTANCE.createFilteringStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+69 problems (2 errors, 67 warnings)

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="INNoVaServ Toolkit v0.0.1.a" url="www.kybele.es/projects/elastic/updatesite">
+      INNoVaServ Toolkit v0.0.1.a
+   </description>
+   <feature url="features/es.kybele.elastic.canvas_features_0.0.1.a.jar" id="es.kybele.elastic.canvas_features" version="0.0.1.a">
+      <category name="es.kybele.elastic.updatesite.categories.canvas"/>
+   </feature>
+   <feature url="features/es.kybele.elastic.e3value_features_0.0.1.a.jar" id="es.kybele.elastic.e3value_features" version="0.0.1.a">
+      <category name="es.kybele.elastic.updatesite.categories.e3value"/>
+   </feature>
+   <feature url="features/es.kybele.elastic.serviceblueprint_features_0.0.1.a.jar" id="es.kybele.elastic.serviceblueprint_features" version="0.0.1.a">
+      <category name="es.kybele.elastic.updatesite.categories.serviceblueprint"/>
+   </feature>
+   <category-def name="es.kybele.elastic.updatesite.categories.canvas" label="Canvas Business Model Graphical Editor"/>
+   <category-def name="es.kybele.elastic.updatesite.categories.e3value" label="e3value Business Model Graphical Editor"/>
+   <category-def name="es.kybele.elastic.updatesite.categories.serviceblueprint" label="Service Blueprint Business Model Graphical Editor"/>
+</site>

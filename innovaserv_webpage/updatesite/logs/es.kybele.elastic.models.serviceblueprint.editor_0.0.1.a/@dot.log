@@ -1,0 +1,19 @@
+# 2/02/16 12:27:13 CET
+# Eclipse Compiler for Java(TM) v20150602-1242, 3.11.0, Copyright IBM Corp 2000, 2015. All rights reserved.
+----------
+1. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.editor/src/serviceblueprint/presentation/ServiceblueprintEditor.java (at line 1312)
+	public Object getAdapter(Class key) {
+	       ^^^^^^
+Type safety: The return type Object for getAdapter(Class) from the type ServiceblueprintEditor needs unchecked conversion to conform to T from the type MultiPageEditorPart
+----------
+2. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.editor/src/serviceblueprint/presentation/ServiceblueprintEditor.java (at line 1323)
+	return super.getAdapter(key);
+	       ^^^^^^^^^^^^^^^^^^^^^
+Type safety: Unchecked invocation getAdapter(Class) of the generic method getAdapter(Class<T>) of type MultiPageEditorPart
+----------
+3. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.serviceblueprint.editor/src/serviceblueprint/presentation/ServiceblueprintEditor.java (at line 1323)
+	return super.getAdapter(key);
+	                        ^^^
+Type safety: The expression of type Class needs unchecked conversion to conform to Class<Object>
+----------
+3 problems (3 warnings)

@@ -1,0 +1,2681 @@
+# 2/02/16 12:27:14 CET
+# Eclipse Compiler for Java(TM) v20150602-1242, 3.11.0, Copyright IBM Corp 2000, 2015. All rights reserved.
+----------
+1. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/E3valueReorientConnectionViewCommand.java (at line 35)
+	public List getAffectedFiles() {
+	       ^^^^
+List is a raw type. References to generic type List<E> should be parameterized
+----------
+----------
+2. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/EndStimulusCreateCommand.java (at line 16)
+	import e3value.E3ValueModel;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import e3value.E3ValueModel is never used
+----------
+----------
+3. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/InputPortCreateCommand.java (at line 19)
+	import e3value.LogicalElement;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.LogicalElement is never used
+----------
+----------
+4. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/OrForkCreateCommand.java (at line 15)
+	import e3value.AndFork;
+	       ^^^^^^^^^^^^^^^
+The import e3value.AndFork is never used
+----------
+----------
+5. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/OrJoinCreateCommand.java (at line 15)
+	import e3value.AndJoin;
+	       ^^^^^^^^^^^^^^^
+The import e3value.AndJoin is never used
+----------
+----------
+6. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/StartStimulusCreateCommand.java (at line 16)
+	import e3value.E3ValueModel;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import e3value.E3ValueModel is never used
+----------
+----------
+7. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueExchangeCreateCommand.java (at line 18)
+	import e3value.ValueObject;
+	       ^^^^^^^^^^^^^^^^^^^
+The import e3value.ValueObject is never used
+----------
+8. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueExchangeCreateCommand.java (at line 20)
+	import e3value.ValuePortIn;
+	       ^^^^^^^^^^^^^^^^^^^
+The import e3value.ValuePortIn is never used
+----------
+9. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueExchangeCreateCommand.java (at line 21)
+	import e3value.ValuePortOut;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import e3value.ValuePortOut is never used
+----------
+----------
+10. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueExchangeReorientCommand.java (at line 13)
+	import e3value.ValueObject;
+	       ^^^^^^^^^^^^^^^^^^^
+The import e3value.ValueObject is never used
+----------
+11. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueExchangeReorientCommand.java (at line 15)
+	import e3value.ValuePortIn;
+	       ^^^^^^^^^^^^^^^^^^^
+The import e3value.ValuePortIn is never used
+----------
+12. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueExchangeReorientCommand.java (at line 16)
+	import e3value.ValuePortOut;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import e3value.ValuePortOut is never used
+----------
+----------
+13. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/commands/ValueInterfaceCreateCommand.java (at line 7)
+	import org.eclipse.emf.ecore.resource.Resource;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.emf.ecore.resource.Resource is never used
+----------
+----------
+14. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkInputPortCompartmentDiagramEditPart.java (at line 6)
+	import org.eclipse.draw2d.LayoutManager;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.LayoutManager is never used
+----------
+----------
+15. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 9)
+	import org.eclipse.gef.EditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.EditPolicy is never used
+----------
+16. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 12)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+17. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 13)
+	import org.eclipse.gef.commands.UnexecutableCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.UnexecutableCommand is never used
+----------
+18. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 16)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+19. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 17)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ComponentEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ComponentEditPolicy is never used
+----------
+20. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 23)
+	import org.eclipse.gmf.runtime.diagram.ui.requests.GroupRequestViaKeyboard;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.requests.GroupRequestViaKeyboard is never used
+----------
+21. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkAndForkOutputPortsCompartmentDiagramEditPart.java (at line 33)
+	import e3value.diagram.edit.parts.listeners.AndForkAndForkOutputPortsCompartmentDiagramFigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.listeners.AndForkAndForkOutputPortsCompartmentDiagramFigureListener is never used
+----------
+----------
+22. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkEditPart.java (at line 6)
+	import org.eclipse.draw2d.LineBorder;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.LineBorder is never used
+----------
+23. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndForkEditPart.java (at line 9)
+	import org.eclipse.draw2d.ScalablePolygonShape;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ScalablePolygonShape is never used
+----------
+----------
+24. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndJoinAndJoinInputPortsCompartmentDiagramEditPart.java (at line 25)
+	import e3value.AndFork;
+	       ^^^^^^^^^^^^^^^
+The import e3value.AndFork is never used
+----------
+----------
+25. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndJoinAndJoinOutputPortCompartmentDiagramEditPart.java (at line 12)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+----------
+26. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndJoinEditPart.java (at line 8)
+	import org.eclipse.draw2d.ScalablePolygonShape;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ScalablePolygonShape is never used
+----------
+27. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndJoinEditPart.java (at line 18)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+28. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndJoinEditPart.java (at line 20)
+	import org.eclipse.gef.editpolicies.NonResizableEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.editpolicies.NonResizableEditPolicy is never used
+----------
+29. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/AndJoinEditPart.java (at line 21)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+----------
+30. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorCompositeActorCompartmentDiagramEditPart.java (at line 10)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ListCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ListCompartmentEditPart is never used
+----------
+----------
+31. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 4)
+	import org.eclipse.draw2d.FlowLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FlowLayout is never used
+----------
+32. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 16)
+	import org.eclipse.gef.Request;
+	       ^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.Request is never used
+----------
+33. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 17)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+34. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 19)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+35. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 20)
+	import org.eclipse.gmf.runtime.diagram.core.edithelpers.CreateElementRequestAdapter;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.core.edithelpers.CreateElementRequestAdapter is never used
+----------
+36. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 24)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart is never used
+----------
+37. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 25)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy is never used
+----------
+38. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 28)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy is never used
+----------
+39. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 29)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy is never used
+----------
+40. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 30)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy is never used
+----------
+41. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 32)
+	import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewAndElementRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewAndElementRequest is never used
+----------
+42. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 33)
+	import org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout is never used
+----------
+43. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 36)
+	import org.eclipse.gmf.runtime.emf.type.core.IElementType;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.IElementType is never used
+----------
+44. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorEditPart.java (at line 51)
+	import e3value.diagram.providers.E3valueElementTypes;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.providers.E3valueElementTypes is never used
+----------
+----------
+45. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/CompositeActorNameEditPart.java (at line 553)
+	public Object getAdapter(Class key) {
+	                         ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+46. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/E3ValueModelE3ValueModelCompartmentDiagramEditPart.java (at line 16)
+	import org.eclipse.gmf.runtime.diagram.ui.requests.RequestConstants;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.requests.RequestConstants is never used
+----------
+----------
+47. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/E3ValueModelEditPart.java (at line 3)
+	import org.eclipse.draw2d.ColorConstants;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ColorConstants is never used
+----------
+48. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/E3ValueModelEditPart.java (at line 4)
+	import org.eclipse.draw2d.FigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FigureListener is never used
+----------
+49. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/E3ValueModelEditPart.java (at line 16)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.DiagramEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.DiagramEditPart is never used
+----------
+50. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/E3ValueModelEditPart.java (at line 27)
+	import org.eclipse.gmf.tooling.runtime.edit.policies.reparent.CreationEditPolicyWithCustomReparent;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.tooling.runtime.edit.policies.reparent.CreationEditPolicyWithCustomReparent is never used
+----------
+51. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/E3ValueModelEditPart.java (at line 35)
+	import e3value.diagram.part.E3valueVisualIDRegistry;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.part.E3valueVisualIDRegistry is never used
+----------
+----------
+52. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 3)
+	import javax.sound.sampled.Line;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^
+The import javax.sound.sampled.Line is never used
+----------
+53. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 6)
+	import org.eclipse.draw2d.FlowLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FlowLayout is never used
+----------
+54. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 18)
+	import org.eclipse.gef.GraphicalEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.GraphicalEditPart is never used
+----------
+55. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 19)
+	import org.eclipse.gef.Request;
+	       ^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.Request is never used
+----------
+56. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 20)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+57. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 22)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+58. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 23)
+	import org.eclipse.gmf.runtime.diagram.core.edithelpers.CreateElementRequestAdapter;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.core.edithelpers.CreateElementRequestAdapter is never used
+----------
+59. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 27)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart is never used
+----------
+60. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 28)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy is never used
+----------
+61. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 31)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy is never used
+----------
+62. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 32)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy is never used
+----------
+63. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 33)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy is never used
+----------
+64. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 35)
+	import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewAndElementRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewAndElementRequest is never used
+----------
+65. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 36)
+	import org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.figures.ConstrainedToolbarLayout is never used
+----------
+66. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 39)
+	import org.eclipse.gmf.runtime.emf.type.core.IElementType;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.IElementType is never used
+----------
+67. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 42)
+	import org.eclipse.gmf.runtime.notation.LineStyle;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.LineStyle is never used
+----------
+68. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 43)
+	import org.eclipse.gmf.runtime.notation.LineType;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.LineType is never used
+----------
+69. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 51)
+	import e3value.diagram.edit.parts.listeners.CompositeActorFigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.listeners.CompositeActorFigureListener is never used
+----------
+70. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 53)
+	import e3value.diagram.edit.parts.policies.custom.CreationEditPolicyWithCustomReparentCustom;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.policies.custom.CreationEditPolicyWithCustomReparentCustom is never used
+----------
+71. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorEditPart.java (at line 58)
+	import e3value.diagram.providers.E3valueElementTypes;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.providers.E3valueElementTypes is never used
+----------
+----------
+72. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ElementaryActorNameEditPart.java (at line 553)
+	public Object getAdapter(Class key) {
+	                         ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+73. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 3)
+	import java.util.Iterator;
+	       ^^^^^^^^^^^^^^^^^^
+The import java.util.Iterator is never used
+----------
+74. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 6)
+	import org.eclipse.draw2d.FigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FigureListener is never used
+----------
+75. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 16)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+76. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 18)
+	import org.eclipse.emf.transaction.TransactionalEditingDomain;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.emf.transaction.TransactionalEditingDomain is never used
+----------
+77. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 22)
+	import org.eclipse.gef.Request;
+	       ^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.Request is never used
+----------
+78. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 23)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+79. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 25)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+80. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 26)
+	import org.eclipse.gmf.runtime.common.core.command.ICommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.common.core.command.ICommand is never used
+----------
+81. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 27)
+	import org.eclipse.gmf.runtime.diagram.ui.commands.ICommandProxy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.commands.ICommandProxy is never used
+----------
+82. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 28)
+	import org.eclipse.gmf.runtime.diagram.ui.commands.SetBoundsCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.commands.SetBoundsCommand is never used
+----------
+83. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 32)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeEditPart is never used
+----------
+84. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 33)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart is never used
+----------
+85. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 34)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy is never used
+----------
+86. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 37)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy is never used
+----------
+87. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 38)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy is never used
+----------
+88. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 40)
+	import org.eclipse.gmf.runtime.diagram.ui.l10n.DiagramUIMessages;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.l10n.DiagramUIMessages is never used
+----------
+89. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 41)
+	import org.eclipse.gmf.runtime.diagram.ui.parts.IDiagramWorkbenchPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.parts.IDiagramWorkbenchPart is never used
+----------
+90. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 42)
+	import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewRequest is never used
+----------
+91. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 45)
+	import org.eclipse.gmf.runtime.emf.commands.core.command.CompositeTransactionalCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.commands.core.command.CompositeTransactionalCommand is never used
+----------
+92. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 46)
+	import org.eclipse.gmf.runtime.emf.core.util.EObjectAdapter;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.core.util.EObjectAdapter is never used
+----------
+93. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 50)
+	import org.eclipse.gmf.tooling.runtime.edit.policies.reparent.CreationEditPolicyWithCustomReparent;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.tooling.runtime.edit.policies.reparent.CreationEditPolicyWithCustomReparent is never used
+----------
+94. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 56)
+	import e3value.diagram.edit.parts.listeners.BorderItemSelectionEditPolicyCustom;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.listeners.BorderItemSelectionEditPolicyCustom is never used
+----------
+95. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentEditPart.java (at line 58)
+	import e3value.diagram.edit.parts.listeners.ValueInterfaceFigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.listeners.ValueInterfaceFigureListener is never used
+----------
+----------
+96. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/MarketSegmentNameEditPart.java (at line 553)
+	public Object getAdapter(Class key) {
+	                         ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+97. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrForkEditPart.java (at line 8)
+	import org.eclipse.draw2d.ScalablePolygonShape;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ScalablePolygonShape is never used
+----------
+98. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrForkEditPart.java (at line 18)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+99. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrForkEditPart.java (at line 20)
+	import org.eclipse.gef.editpolicies.NonResizableEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.editpolicies.NonResizableEditPolicy is never used
+----------
+100. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrForkEditPart.java (at line 21)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+----------
+101. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrForkOrForkOutputPortsCompartmentDiagramEditPart.java (at line 13)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+----------
+102. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrJoinEditPart.java (at line 8)
+	import org.eclipse.draw2d.ScalablePolygonShape;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ScalablePolygonShape is never used
+----------
+103. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrJoinEditPart.java (at line 18)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+104. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrJoinEditPart.java (at line 20)
+	import org.eclipse.gef.editpolicies.NonResizableEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.editpolicies.NonResizableEditPolicy is never used
+----------
+105. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrJoinEditPart.java (at line 21)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+----------
+106. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OrJoinOrJoinOutputPortCompartmentDiagramEditPart.java (at line 12)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+----------
+107. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OutputPortEditPart.java (at line 5)
+	import org.eclipse.draw2d.FigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FigureListener is never used
+----------
+108. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OutputPortEditPart.java (at line 10)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+109. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OutputPortEditPart.java (at line 11)
+	import org.eclipse.draw2d.geometry.Rectangle;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Rectangle is never used
+----------
+110. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OutputPortEditPart.java (at line 15)
+	import org.eclipse.gef.GraphicalEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.GraphicalEditPart is never used
+----------
+111. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/OutputPortEditPart.java (at line 34)
+	import e3value.diagram.edit.parts.listeners.OutputPortFigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.listeners.OutputPortFigureListener is never used
+----------
+----------
+112. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 17)
+	import org.eclipse.gef.Request;
+	       ^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.Request is never used
+----------
+113. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 18)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+114. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 20)
+	import org.eclipse.gef.editpolicies.NonResizableEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.editpolicies.NonResizableEditPolicy is never used
+----------
+115. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 21)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+116. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 25)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeNodeEditPart is never used
+----------
+117. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 26)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.BorderItemSelectionEditPolicy is never used
+----------
+118. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 29)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.ResizableShapeEditPolicy is never used
+----------
+119. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityEditPart.java (at line 30)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.XYLayoutEditPolicy is never used
+----------
+----------
+120. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueActivityNameEditPart.java (at line 553)
+	public Object getAdapter(Class key) {
+	                         ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+121. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueExchangeEditPart.java (at line 5)
+	import org.eclipse.draw2d.LineBorder;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.LineBorder is never used
+----------
+----------
+122. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 4)
+	import org.eclipse.draw2d.Figure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.Figure is never used
+----------
+123. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 5)
+	import org.eclipse.draw2d.FigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FigureListener is never used
+----------
+124. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 6)
+	import org.eclipse.draw2d.FlowLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FlowLayout is never used
+----------
+125. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 9)
+	import org.eclipse.draw2d.LineBorder;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.LineBorder is never used
+----------
+126. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 10)
+	import org.eclipse.draw2d.MarginBorder;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.MarginBorder is never used
+----------
+127. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 17)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+128. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 18)
+	import org.eclipse.draw2d.geometry.PrecisionPoint;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.PrecisionPoint is never used
+----------
+129. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 20)
+	import org.eclipse.emf.ecore.EObject;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.emf.ecore.EObject is never used
+----------
+130. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 24)
+	import org.eclipse.gef.RootEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.RootEditPart is never used
+----------
+131. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 25)
+	import org.eclipse.gef.commands.Command;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.commands.Command is never used
+----------
+132. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 27)
+	import org.eclipse.gef.editpolicies.NonResizableEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.editpolicies.NonResizableEditPolicy is never used
+----------
+133. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 28)
+	import org.eclipse.gef.requests.CreateRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.requests.CreateRequest is never used
+----------
+134. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 33)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy is never used
+----------
+135. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 36)
+	import org.eclipse.gmf.runtime.diagram.ui.figures.ResizableCompartmentFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.figures.ResizableCompartmentFigure is never used
+----------
+136. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 43)
+	import org.eclipse.gmf.tooling.runtime.edit.policies.reparent.CreationEditPolicyWithCustomReparent;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.tooling.runtime.edit.policies.reparent.CreationEditPolicyWithCustomReparent is never used
+----------
+137. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 45)
+	import org.kybele.elastic.e3value.utils.E3ValueUtils;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.kybele.elastic.e3value.utils.E3ValueUtils is never used
+----------
+138. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 47)
+	import e3value.BusinessActor;
+	       ^^^^^^^^^^^^^^^^^^^^^
+The import e3value.BusinessActor is never used
+----------
+139. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 48)
+	import e3value.ValueInterface;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.ValueInterface is never used
+----------
+140. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceEditPart.java (at line 51)
+	import e3value.diagram.edit.parts.utils.E3ValueEditPartUtils;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.utils.E3ValueEditPartUtils is never used
+----------
+----------
+141. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceResponsabilityElementCompartmentDiagramEditPart.java (at line 12)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+----------
+142. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceValuePortInCompartmentDiagramEditPart.java (at line 11)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+----------
+143. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueInterfaceValuePortOutCompartmentDiagramEditPart.java (at line 11)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart is never used
+----------
+----------
+144. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueObjectEditPart.java (at line 11)
+	import org.eclipse.gef.Request;
+	       ^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.Request is never used
+----------
+145. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueObjectEditPart.java (at line 14)
+	import org.eclipse.gef.editpolicies.NonResizableEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.editpolicies.NonResizableEditPolicy is never used
+----------
+----------
+146. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValueObjectName3EditPart.java (at line 549)
+	public Object getAdapter(Class key) {
+	                         ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+147. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortIn2EditPart.java (at line 4)
+	import org.eclipse.draw2d.FlowLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FlowLayout is never used
+----------
+148. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortIn2EditPart.java (at line 7)
+	import org.eclipse.draw2d.ScalablePolygonShape;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ScalablePolygonShape is never used
+----------
+149. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortIn2EditPart.java (at line 21)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy is never used
+----------
+----------
+150. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortInEditPart.java (at line 3)
+	import java.util.LinkedList;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import java.util.LinkedList is never used
+----------
+151. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortInEditPart.java (at line 6)
+	import org.eclipse.draw2d.FigureListener;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FigureListener is never used
+----------
+152. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortInEditPart.java (at line 7)
+	import org.eclipse.draw2d.FlowLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.FlowLayout is never used
+----------
+153. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortInEditPart.java (at line 10)
+	import org.eclipse.draw2d.ScalablePolygonShape;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ScalablePolygonShape is never used
+----------
+154. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortInEditPart.java (at line 24)
+	import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editpolicies.FlowLayoutEditPolicy is never used
+----------
+----------
+155. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortOutEditPart.java (at line 23)
+	import org.kybele.elastic.e3value.utils.E3ValueUtils;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.kybele.elastic.e3value.utils.E3ValueUtils is never used
+----------
+156. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/ValuePortOutEditPart.java (at line 26)
+	import e3value.diagram.edit.policies.ValuePortOutGraphicalNodeEditPolicy;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.policies.ValuePortOutGraphicalNodeEditPolicy is never used
+----------
+----------
+157. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/AndForkAndForkOutputPortsCompartmentDiagramFigureListener.java (at line 11)
+	import org.eclipse.gmf.runtime.diagram.ui.figures.ResizableCompartmentFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.figures.ResizableCompartmentFigure is never used
+----------
+158. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/AndForkAndForkOutputPortsCompartmentDiagramFigureListener.java (at line 37)
+	Dimension d= new Dimension(15, 15);
+	          ^
+The value of the local variable d is not used
+----------
+159. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/AndForkAndForkOutputPortsCompartmentDiagramFigureListener.java (at line 38)
+	Point p = new Point(100, 20);
+	      ^
+The value of the local variable p is not used
+----------
+----------
+160. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/BorderItemSelectionEditPolicyCustom.java (at line 3)
+	import org.eclipse.draw2d.PositionConstants;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.PositionConstants is never used
+----------
+161. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/BorderItemSelectionEditPolicyCustom.java (at line 9)
+	import org.eclipse.gef.Request;
+	       ^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.Request is never used
+----------
+162. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/BorderItemSelectionEditPolicyCustom.java (at line 18)
+	import org.eclipse.gmf.runtime.diagram.ui.figures.IBorderItemLocator;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.figures.IBorderItemLocator is never used
+----------
+163. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/BorderItemSelectionEditPolicyCustom.java (at line 123)
+	MarketSegmentEditPart _msep = null;
+	                      ^^^^^
+The value of the local variable _msep is not used
+----------
+164. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/BorderItemSelectionEditPolicyCustom.java (at line 124)
+	MarketSegment _mseo = null;
+	              ^^^^^
+The value of the local variable _mseo is not used
+----------
+----------
+165. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/CompositeActorFigureListener.java (at line 9)
+	import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel is never used
+----------
+166. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/CompositeActorFigureListener.java (at line 14)
+	import e3value.diagram.edit.parts.ElementaryActorEditPart.ElementaryActorFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ElementaryActorEditPart.ElementaryActorFigure is never used
+----------
+167. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/CompositeActorFigureListener.java (at line 34)
+	List<IFigure> listChildrens = _caf.getChildren();
+	                              ^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type List needs unchecked conversion to conform to List<IFigure>
+----------
+168. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/CompositeActorFigureListener.java (at line 44)
+	Point locationParent = _dsnf.getBounds().getTopLeft();
+	      ^^^^^^^^^^^^^^
+The value of the local variable locationParent is not used
+----------
+----------
+169. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/E3ValueModelFigureListener.java (at line 12)
+	import e3value.diagram.edit.parts.CompositeActorEditPart.CompositeActorFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.CompositeActorEditPart.CompositeActorFigure is never used
+----------
+170. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/E3ValueModelFigureListener.java (at line 14)
+	import e3value.diagram.edit.parts.ElementaryActorEditPart.ElementaryActorFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ElementaryActorEditPart.ElementaryActorFigure is never used
+----------
+171. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/E3ValueModelFigureListener.java (at line 33)
+	List<IFigure> listChildrens = _e3vf.getChildren();
+	                              ^^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type List needs unchecked conversion to conform to List<IFigure>
+----------
+172. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/E3ValueModelFigureListener.java (at line 43)
+	Point locationParent = _dsnf.getBounds().getTopLeft();
+	      ^^^^^^^^^^^^^^
+The value of the local variable locationParent is not used
+----------
+----------
+173. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ElementaryActorFigureListener.java (at line 9)
+	import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel is never used
+----------
+174. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ElementaryActorFigureListener.java (at line 14)
+	import e3value.diagram.edit.parts.MarketSegmentEditPart.MarketSegmentFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.MarketSegmentEditPart.MarketSegmentFigure is never used
+----------
+175. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ElementaryActorFigureListener.java (at line 33)
+	List<IFigure> listChildrens = _eaf.getChildren();
+	                              ^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type List needs unchecked conversion to conform to List<IFigure>
+----------
+176. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ElementaryActorFigureListener.java (at line 43)
+	Point locationParent = _dsnf.getBounds().getTopLeft();
+	      ^^^^^^^^^^^^^^
+The value of the local variable locationParent is not used
+----------
+----------
+177. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/MarketSegmentFigureListener.java (at line 7)
+	import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel is never used
+----------
+178. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/MarketSegmentFigureListener.java (at line 45)
+	Point locationParent = _dsnf.getBounds().getTopLeft();
+	      ^^^^^^^^^^^^^^
+The value of the local variable locationParent is not used
+----------
+----------
+179. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 3)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+180. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 5)
+	import org.eclipse.draw2d.ColorConstants;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.ColorConstants is never used
+----------
+181. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 8)
+	import org.eclipse.draw2d.geometry.Dimension;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Dimension is never used
+----------
+182. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 9)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+183. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 10)
+	import org.eclipse.draw2d.geometry.Rectangle;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Rectangle is never used
+----------
+184. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 11)
+	import org.eclipse.gef.GraphicalEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.GraphicalEditPart is never used
+----------
+185. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 12)
+	import org.eclipse.gmf.runtime.draw2d.ui.mapmode.IMapMode;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.mapmode.IMapMode is never used
+----------
+186. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 13)
+	import org.eclipse.gmf.runtime.gef.ui.figures.DefaultSizeNodeFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.gef.ui.figures.DefaultSizeNodeFigure is never used
+----------
+187. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 14)
+	import org.eclipse.gmf.runtime.notation.NotationPackage;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.NotationPackage is never used
+----------
+188. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/OutputPortFigureListener.java (at line 16)
+	import e3value.diagram.edit.parts.AndForkAndForkOutputPortsCompartmentDiagramEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndForkAndForkOutputPortsCompartmentDiagramEditPart is never used
+----------
+----------
+189. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueActivityFigureListener.java (at line 9)
+	import org.eclipse.gmf.runtime.diagram.ui.figures.ShapeCompartmentFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.figures.ShapeCompartmentFigure is never used
+----------
+190. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueActivityFigureListener.java (at line 10)
+	import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.draw2d.ui.figures.WrappingLabel is never used
+----------
+191. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueActivityFigureListener.java (at line 14)
+	import e3value.diagram.edit.parts.ElementaryActorEditPart.ElementaryActorFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ElementaryActorEditPart.ElementaryActorFigure is never used
+----------
+192. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueActivityFigureListener.java (at line 15)
+	import e3value.diagram.edit.parts.MarketSegmentEditPart.MarketSegmentFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.MarketSegmentEditPart.MarketSegmentFigure is never used
+----------
+193. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueActivityFigureListener.java (at line 43)
+	List<IFigure> listChildrens = _vafd.getChildren();
+	                              ^^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type List needs unchecked conversion to conform to List<IFigure>
+----------
+194. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueActivityFigureListener.java (at line 64)
+	Point locationParent = _dsnf.getBounds().getTopLeft();
+	      ^^^^^^^^^^^^^^
+The value of the local variable locationParent is not used
+----------
+----------
+195. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 9)
+	import org.eclipse.gef.EditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.EditPart is never used
+----------
+196. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 10)
+	import org.eclipse.gef.RootEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.RootEditPart is never used
+----------
+197. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 11)
+	import org.eclipse.gmf.runtime.diagram.ui.parts.DiagramEditor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.parts.DiagramEditor is never used
+----------
+198. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 12)
+	import org.eclipse.gmf.runtime.diagram.ui.parts.IDiagramGraphicalViewer;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.parts.IDiagramGraphicalViewer is never used
+----------
+199. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 14)
+	import org.eclipse.gmf.runtime.gef.ui.figures.DefaultSizeNodeFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.gef.ui.figures.DefaultSizeNodeFigure is never used
+----------
+200. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 15)
+	import org.eclipse.gmf.runtime.notation.View;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.View is never used
+----------
+201. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 16)
+	import org.eclipse.gmf.runtime.notation.impl.NodeImpl;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.impl.NodeImpl is never used
+----------
+202. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 17)
+	import org.eclipse.ui.IEditorPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.IEditorPart is never used
+----------
+203. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 18)
+	import org.eclipse.ui.PlatformUI;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.PlatformUI is never used
+----------
+204. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 20)
+	import e3value.BusinessActor;
+	       ^^^^^^^^^^^^^^^^^^^^^
+The import e3value.BusinessActor is never used
+----------
+205. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 21)
+	import e3value.ValueInterface;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.ValueInterface is never used
+----------
+206. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 23)
+	import e3value.diagram.edit.parts.E3ValueModelEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.E3ValueModelEditPart is never used
+----------
+207. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 30)
+	import e3value.diagram.part.E3valueDiagramEditor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.part.E3valueDiagramEditor is never used
+----------
+208. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListener.java (at line 130)
+	Point origin = source.getBounds().getLocation();
+	      ^^^^^^
+The value of the local variable origin is not used
+----------
+----------
+209. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 8)
+	import org.eclipse.gef.RootEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.RootEditPart is never used
+----------
+210. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 9)
+	import org.eclipse.gmf.runtime.diagram.ui.parts.DiagramEditor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.parts.DiagramEditor is never used
+----------
+211. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 10)
+	import org.eclipse.gmf.runtime.diagram.ui.parts.IDiagramGraphicalViewer;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.parts.IDiagramGraphicalViewer is never used
+----------
+212. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 11)
+	import org.eclipse.gmf.runtime.gef.ui.figures.DefaultSizeNodeFigure;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.gef.ui.figures.DefaultSizeNodeFigure is never used
+----------
+213. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 13)
+	import org.eclipse.gmf.runtime.notation.impl.NodeImpl;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.impl.NodeImpl is never used
+----------
+214. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 14)
+	import org.eclipse.ui.IEditorPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.IEditorPart is never used
+----------
+215. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 15)
+	import org.eclipse.ui.PlatformUI;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.PlatformUI is never used
+----------
+216. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 18)
+	import e3value.BusinessActor;
+	       ^^^^^^^^^^^^^^^^^^^^^
+The import e3value.BusinessActor is never used
+----------
+217. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 20)
+	import e3value.diagram.edit.parts.E3ValueModelEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.E3ValueModelEditPart is never used
+----------
+218. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 23)
+	import e3value.diagram.edit.parts.ValueInterfaceEditPart.ValueInterfaceFigureDescriptor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueInterfaceEditPart.ValueInterfaceFigureDescriptor is never used
+----------
+219. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 25)
+	import e3value.diagram.edit.parts.ValuePortInEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortInEditPart is never used
+----------
+220. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 26)
+	import e3value.diagram.edit.parts.ValuePortOutEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortOutEditPart is never used
+----------
+221. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 28)
+	import e3value.diagram.part.E3valueDiagramEditor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.part.E3valueDiagramEditor is never used
+----------
+222. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 81)
+	Point _mspcenter = E3ValueEditPartUtils.calculateCenterFigure(_msep);
+	      ^^^^^^^^^^
+The value of the local variable _mspcenter is not used
+----------
+223. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValueInterfaceFigureListenerSpecial.java (at line 83)
+	Point _vipcenter = E3ValueEditPartUtils.calculateCenterFigure(_viep);
+	      ^^^^^^^^^^
+The value of the local variable _vipcenter is not used
+----------
+----------
+224. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValuePortOutFigureListener.java (at line 15)
+	import e3value.diagram.edit.parts.ValuePortInEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortInEditPart is never used
+----------
+225. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/listeners/ValuePortOutFigureListener.java (at line 16)
+	import e3value.diagram.edit.parts.ValuePortInEditPart.ValuePortInFigureDescriptor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortInEditPart.ValuePortInFigureDescriptor is never used
+----------
+----------
+226. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/CreationEditPolicyWithCustomReparentCustom.java (at line 29)
+	import org.eclipse.gmf.runtime.diagram.ui.services.editpart.EditPartService;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.services.editpart.EditPartService is never used
+----------
+227. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/CreationEditPolicyWithCustomReparentCustom.java (at line 37)
+	import e3value.diagram.edit.parts.ValueInterfaceEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueInterfaceEditPart is never used
+----------
+228. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/CreationEditPolicyWithCustomReparentCustom.java (at line 59)
+	Iterator descriptors = request.getViewDescriptors().iterator();
+	^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+229. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/CreationEditPolicyWithCustomReparentCustom.java (at line 61)
+	View _v = (View)(getHost().getModel());
+	     ^^
+The value of the local variable _v is not used
+----------
+230. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/CreationEditPolicyWithCustomReparentCustom.java (at line 127)
+	MarketSegmentEditPart _msep = (MarketSegmentEditPart) view;
+	                      ^^^^^
+The value of the local variable _msep is not used
+----------
+231. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/CreationEditPolicyWithCustomReparentCustom.java (at line 168)
+	new RefreshConnectionsRequest(((List)request.getNewObject())));
+	                                ^^^^
+List is a raw type. References to generic type List<E> should be parameterized
+----------
+----------
+232. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 5)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+233. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 12)
+	import org.eclipse.gmf.runtime.common.core.command.ICommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.common.core.command.ICommand is never used
+----------
+234. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 16)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeEditPart is never used
+----------
+235. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 21)
+	import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewRequest.ViewDescriptor;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.requests.CreateViewRequest.ViewDescriptor is never used
+----------
+236. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 23)
+	import org.eclipse.gmf.runtime.emf.core.util.EObjectAdapter;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.core.util.EObjectAdapter is never used
+----------
+237. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 50)
+	Iterator iter = req.getViewDescriptors().iterator();
+	^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+238. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/policies/custom/XYLayoutEditPolicyCustom.java (at line 122)
+	ValueInterfaceFigureDescriptor _vifd = (ValueInterfaceFigureDescriptor) _viep.getPrimaryShape();
+	                               ^^^^^
+The value of the local variable _vifd is not used
+----------
+----------
+239. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/utils/E3ValueEditPartUtils.java (at line 6)
+	import org.eclipse.gef.EditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.EditPart is never used
+----------
+240. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/utils/E3ValueEditPartUtils.java (at line 14)
+	import e3value.diagram.edit.parts.ValueInterfaceEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueInterfaceEditPart is never used
+----------
+241. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/utils/E3ValueEditPartUtils.java (at line 128)
+	Point bottom = _msr.getBottom();
+	      ^^^^^^
+The value of the local variable bottom is not used
+----------
+242. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/utils/E3ValueEditPartUtils.java (at line 177)
+	Point bottom = _var.getBottom();
+	      ^^^^^^
+The value of the local variable bottom is not used
+----------
+243. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/utils/E3ValueEditPartUtils.java (at line 226)
+	Point bottom = _ear.getBottom();
+	      ^^^^^^
+The value of the local variable bottom is not used
+----------
+244. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/parts/utils/E3ValueEditPartUtils.java (at line 274)
+	Point bottom = _car.getBottom();
+	      ^^^^^^
+The value of the local variable bottom is not used
+----------
+----------
+245. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 5)
+	import java.util.HashSet;
+	       ^^^^^^^^^^^^^^^^^
+The import java.util.HashSet is never used
+----------
+246. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 9)
+	import java.util.Set;
+	       ^^^^^^^^^^^^^
+The import java.util.Set is never used
+----------
+247. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 27)
+	import e3value.diagram.edit.parts.AndForkEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndForkEditPart is never used
+----------
+248. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 28)
+	import e3value.diagram.edit.parts.AndJoinEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndJoinEditPart is never used
+----------
+249. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 29)
+	import e3value.diagram.edit.parts.EndStimulusEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.EndStimulusEditPart is never used
+----------
+250. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 30)
+	import e3value.diagram.edit.parts.OrForkEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.OrForkEditPart is never used
+----------
+251. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 31)
+	import e3value.diagram.edit.parts.OrJoinEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.OrJoinEditPart is never used
+----------
+252. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 32)
+	import e3value.diagram.edit.parts.StartStimulusEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.StartStimulusEditPart is never used
+----------
+253. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCanonicalEditPolicy.java (at line 33)
+	import e3value.diagram.edit.parts.ValueActivityEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueActivityEditPart is never used
+----------
+----------
+254. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCompositeActorCompartmentDiagramCanonicalEditPolicy.java (at line 35)
+	import e3value.diagram.edit.parts.ValueInterfaceEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueInterfaceEditPart is never used
+----------
+255. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCompositeActorCompartmentDiagramCanonicalEditPolicy.java (at line 67)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Set is a raw type. References to generic type Set<E> should be parameterized
+----------
+256. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCompositeActorCompartmentDiagramCanonicalEditPolicy.java (at line 67)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Type safety: The return type Set for getFeaturesToSynchronize() from the type CompositeActorCompositeActorCompartmentDiagramCanonicalEditPolicy needs unchecked conversion to conform to Set<EStructuralFeature> from the type CanonicalEditPolicy
+----------
+----------
+257. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorCompositeActorCompartmentDiagramItemSemanticEditPolicy.java (at line 14)
+	import e3value.diagram.edit.commands.ValueInterfaceCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueInterfaceCreateCommand is never used
+----------
+----------
+258. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 18)
+	import e3value.diagram.edit.commands.AndForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndForkCreateCommand is never used
+----------
+259. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 19)
+	import e3value.diagram.edit.commands.AndJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndJoinCreateCommand is never used
+----------
+260. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 20)
+	import e3value.diagram.edit.commands.EndStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.EndStimulusCreateCommand is never used
+----------
+261. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 21)
+	import e3value.diagram.edit.commands.OrForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrForkCreateCommand is never used
+----------
+262. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 22)
+	import e3value.diagram.edit.commands.OrJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrJoinCreateCommand is never used
+----------
+263. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 23)
+	import e3value.diagram.edit.commands.StartStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.StartStimulusCreateCommand is never used
+----------
+264. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/CompositeActorItemSemanticEditPolicy.java (at line 24)
+	import e3value.diagram.edit.commands.ValueActivityCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueActivityCreateCommand is never used
+----------
+----------
+265. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 50)
+	import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart is never used
+----------
+266. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 215)
+	Collection existingLinks = new LinkedList(getDiagram().getEdges());
+	^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+267. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 215)
+	Collection existingLinks = new LinkedList(getDiagram().getEdges());
+	                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The constructor LinkedList(Collection) belongs to the raw type LinkedList. References to generic type LinkedList<E> should be parameterized
+----------
+268. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 215)
+	Collection existingLinks = new LinkedList(getDiagram().getEdges());
+	                               ^^^^^^^^^^
+LinkedList is a raw type. References to generic type LinkedList<E> should be parameterized
+----------
+269. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 216)
+	for (Iterator linksIterator = existingLinks.iterator(); linksIterator
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+270. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 247)
+	deleteViews(existingLinks.iterator());
+	            ^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type Iterator needs unchecked conversion to conform to Iterator<View>
+----------
+271. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 431)
+	for (Iterator children = view.getChildren().iterator(); children
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+272. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueDiagramCanonicalEditPolicy.java (at line 436)
+	for (Iterator edges = view.getSourceEdges().iterator(); edges.hasNext();) {
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+273. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelE3ValueModelCompartmentDiagramCanonicalEditPolicy.java (at line 61)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Set is a raw type. References to generic type Set<E> should be parameterized
+----------
+274. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelE3ValueModelCompartmentDiagramCanonicalEditPolicy.java (at line 61)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Type safety: The return type Set for getFeaturesToSynchronize() from the type E3ValueModelE3ValueModelCompartmentDiagramCanonicalEditPolicy needs unchecked conversion to conform to Set<EStructuralFeature> from the type CanonicalEditPolicy
+----------
+----------
+275. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 5)
+	import org.eclipse.emf.transaction.TransactionalEditingDomain;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.emf.transaction.TransactionalEditingDomain is never used
+----------
+276. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 9)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart is never used
+----------
+277. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 11)
+	import org.eclipse.gmf.runtime.emf.commands.core.commands.DuplicateEObjectsCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.commands.core.commands.DuplicateEObjectsCommand is never used
+----------
+278. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 14)
+	import org.eclipse.gmf.runtime.emf.type.core.requests.CreateElementRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.requests.CreateElementRequest is never used
+----------
+279. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 15)
+	import org.eclipse.gmf.runtime.emf.type.core.requests.CreateRelationshipRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.requests.CreateRelationshipRequest is never used
+----------
+280. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 18)
+	import org.eclipse.gmf.runtime.emf.type.core.requests.DuplicateElementsRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.requests.DuplicateElementsRequest is never used
+----------
+281. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 20)
+	import org.eclipse.gmf.runtime.emf.type.core.requests.ReorientRelationshipRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.requests.ReorientRelationshipRequest is never used
+----------
+282. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 24)
+	import e3value.diagram.edit.commands.CompositeActorCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.CompositeActorCreateCommand is never used
+----------
+283. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 25)
+	import e3value.diagram.edit.commands.ElementaryActorCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ElementaryActorCreateCommand is never used
+----------
+284. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 26)
+	import e3value.diagram.edit.commands.EndStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.EndStimulusCreateCommand is never used
+----------
+285. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 27)
+	import e3value.diagram.edit.commands.MarketSegmentCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.MarketSegmentCreateCommand is never used
+----------
+286. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 28)
+	import e3value.diagram.edit.commands.StartStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.StartStimulusCreateCommand is never used
+----------
+287. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 29)
+	import e3value.diagram.edit.commands.ValueExchangeCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueExchangeCreateCommand is never used
+----------
+288. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 30)
+	import e3value.diagram.edit.commands.ValueExchangeReorientCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueExchangeReorientCommand is never used
+----------
+289. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 31)
+	import e3value.diagram.edit.commands.ValueObjectCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueObjectCreateCommand is never used
+----------
+290. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 36)
+	import e3value.diagram.edit.parts.ValueExchangeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeEditPart is never used
+----------
+291. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3ValueModelItemSemanticEditPolicy.java (at line 38)
+	import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart is never used
+----------
+----------
+292. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3valueBaseItemSemanticEditPolicy.java (at line 41)
+	import e3value.ValuePortIn;
+	       ^^^^^^^^^^^^^^^^^^^
+The import e3value.ValuePortIn is never used
+----------
+293. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3valueBaseItemSemanticEditPolicy.java (at line 42)
+	import e3value.ValuePortOut;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import e3value.ValuePortOut is never used
+----------
+294. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3valueBaseItemSemanticEditPolicy.java (at line 86)
+	request.getExtendedData().put(VISUAL_ID_KEY, id);
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method put(Object, Object) belongs to the raw type Map. References to generic type Map<K,V> should be parameterized
+----------
+295. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3valueBaseItemSemanticEditPolicy.java (at line 295)
+	for (Iterator it = view.getDiagram().getChildren().iterator(); it
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+296. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/E3valueTextNonResizableEditPolicy.java (at line 222)
+	protected List createSelectionHandles() {
+	          ^^^^
+List is a raw type. References to generic type List<E> should be parameterized
+----------
+----------
+297. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 5)
+	import java.util.HashSet;
+	       ^^^^^^^^^^^^^^^^^
+The import java.util.HashSet is never used
+----------
+298. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 9)
+	import java.util.Set;
+	       ^^^^^^^^^^^^^
+The import java.util.Set is never used
+----------
+299. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 27)
+	import e3value.diagram.edit.parts.AndForkEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndForkEditPart is never used
+----------
+300. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 28)
+	import e3value.diagram.edit.parts.AndJoinEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndJoinEditPart is never used
+----------
+301. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 29)
+	import e3value.diagram.edit.parts.EndStimulusEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.EndStimulusEditPart is never used
+----------
+302. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 30)
+	import e3value.diagram.edit.parts.OrForkEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.OrForkEditPart is never used
+----------
+303. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 31)
+	import e3value.diagram.edit.parts.OrJoinEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.OrJoinEditPart is never used
+----------
+304. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 32)
+	import e3value.diagram.edit.parts.StartStimulusEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.StartStimulusEditPart is never used
+----------
+305. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorCanonicalEditPolicy.java (at line 33)
+	import e3value.diagram.edit.parts.ValueActivityEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueActivityEditPart is never used
+----------
+----------
+306. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorElementaryActorCompartmentDiagramCanonicalEditPolicy.java (at line 34)
+	import e3value.diagram.edit.parts.ValueInterfaceEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueInterfaceEditPart is never used
+----------
+307. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorElementaryActorCompartmentDiagramCanonicalEditPolicy.java (at line 66)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Set is a raw type. References to generic type Set<E> should be parameterized
+----------
+308. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorElementaryActorCompartmentDiagramCanonicalEditPolicy.java (at line 66)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Type safety: The return type Set for getFeaturesToSynchronize() from the type ElementaryActorElementaryActorCompartmentDiagramCanonicalEditPolicy needs unchecked conversion to conform to Set<EStructuralFeature> from the type CanonicalEditPolicy
+----------
+----------
+309. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorElementaryActorCompartmentDiagramItemSemanticEditPolicy.java (at line 12)
+	import e3value.diagram.edit.commands.ValueActivity2CreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueActivity2CreateCommand is never used
+----------
+310. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorElementaryActorCompartmentDiagramItemSemanticEditPolicy.java (at line 14)
+	import e3value.diagram.edit.commands.ValueInterfaceCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueInterfaceCreateCommand is never used
+----------
+----------
+311. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 19)
+	import e3value.diagram.edit.commands.AndForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndForkCreateCommand is never used
+----------
+312. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 20)
+	import e3value.diagram.edit.commands.AndJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndJoinCreateCommand is never used
+----------
+313. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 21)
+	import e3value.diagram.edit.commands.EndStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.EndStimulusCreateCommand is never used
+----------
+314. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 22)
+	import e3value.diagram.edit.commands.OrForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrForkCreateCommand is never used
+----------
+315. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 23)
+	import e3value.diagram.edit.commands.OrJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrJoinCreateCommand is never used
+----------
+316. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 24)
+	import e3value.diagram.edit.commands.StartStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.StartStimulusCreateCommand is never used
+----------
+317. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ElementaryActorItemSemanticEditPolicy.java (at line 25)
+	import e3value.diagram.edit.commands.ValueActivityCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueActivityCreateCommand is never used
+----------
+----------
+318. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 5)
+	import java.util.HashSet;
+	       ^^^^^^^^^^^^^^^^^
+The import java.util.HashSet is never used
+----------
+319. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 10)
+	import java.util.Set;
+	       ^^^^^^^^^^^^^
+The import java.util.Set is never used
+----------
+320. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 27)
+	import e3value.diagram.edit.parts.AndForkEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndForkEditPart is never used
+----------
+321. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 28)
+	import e3value.diagram.edit.parts.AndJoinEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.AndJoinEditPart is never used
+----------
+322. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 29)
+	import e3value.diagram.edit.parts.EndStimulusEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.EndStimulusEditPart is never used
+----------
+323. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 30)
+	import e3value.diagram.edit.parts.OrForkEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.OrForkEditPart is never used
+----------
+324. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 31)
+	import e3value.diagram.edit.parts.OrJoinEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.OrJoinEditPart is never used
+----------
+325. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 32)
+	import e3value.diagram.edit.parts.StartStimulusEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.StartStimulusEditPart is never used
+----------
+326. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentCanonicalEditPolicy.java (at line 33)
+	import e3value.diagram.edit.parts.ValueActivityEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueActivityEditPart is never used
+----------
+----------
+327. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 18)
+	import e3value.diagram.edit.commands.AndForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndForkCreateCommand is never used
+----------
+328. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 19)
+	import e3value.diagram.edit.commands.AndJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndJoinCreateCommand is never used
+----------
+329. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 20)
+	import e3value.diagram.edit.commands.EndStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.EndStimulusCreateCommand is never used
+----------
+330. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 21)
+	import e3value.diagram.edit.commands.OrForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrForkCreateCommand is never used
+----------
+331. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 22)
+	import e3value.diagram.edit.commands.OrJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrJoinCreateCommand is never used
+----------
+332. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 23)
+	import e3value.diagram.edit.commands.StartStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.StartStimulusCreateCommand is never used
+----------
+333. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentItemSemanticEditPolicy.java (at line 24)
+	import e3value.diagram.edit.commands.ValueActivityCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueActivityCreateCommand is never used
+----------
+----------
+334. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentMarketSegmentComparmentDiagramCanonicalEditPolicy.java (at line 65)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Set is a raw type. References to generic type Set<E> should be parameterized
+----------
+335. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/MarketSegmentMarketSegmentComparmentDiagramCanonicalEditPolicy.java (at line 65)
+	protected Set getFeaturesToSynchronize() {
+	          ^^^
+Type safety: The return type Set for getFeaturesToSynchronize() from the type MarketSegmentMarketSegmentComparmentDiagramCanonicalEditPolicy needs unchecked conversion to conform to Set<EStructuralFeature> from the type CanonicalEditPolicy
+----------
+----------
+336. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 10)
+	import org.eclipse.gmf.runtime.emf.type.core.commands.DestroyReferenceCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.commands.DestroyReferenceCommand is never used
+----------
+337. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 13)
+	import org.eclipse.gmf.runtime.emf.type.core.requests.DestroyReferenceRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.requests.DestroyReferenceRequest is never used
+----------
+338. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 18)
+	import e3value.diagram.edit.commands.AndForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndForkCreateCommand is never used
+----------
+339. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 19)
+	import e3value.diagram.edit.commands.AndJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.AndJoinCreateCommand is never used
+----------
+340. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 20)
+	import e3value.diagram.edit.commands.EndStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.EndStimulusCreateCommand is never used
+----------
+341. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 21)
+	import e3value.diagram.edit.commands.OrForkCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrForkCreateCommand is never used
+----------
+342. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 22)
+	import e3value.diagram.edit.commands.OrJoinCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.OrJoinCreateCommand is never used
+----------
+343. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 23)
+	import e3value.diagram.edit.commands.StartStimulusCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.StartStimulusCreateCommand is never used
+----------
+344. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 33)
+	import e3value.diagram.edit.parts.ValueExchangeHasValueObjectEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeHasValueObjectEditPart is never used
+----------
+345. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityItemSemanticEditPolicy.java (at line 35)
+	import e3value.diagram.edit.parts.ValueObjectEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueObjectEditPart is never used
+----------
+----------
+346. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityValueActivityCompartmentDiagramCanonicalEditPolicy.java (at line 5)
+	import java.util.HashSet;
+	       ^^^^^^^^^^^^^^^^^
+The import java.util.HashSet is never used
+----------
+347. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityValueActivityCompartmentDiagramCanonicalEditPolicy.java (at line 10)
+	import java.util.Set;
+	       ^^^^^^^^^^^^^
+The import java.util.Set is never used
+----------
+348. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityValueActivityCompartmentDiagramCanonicalEditPolicy.java (at line 33)
+	import e3value.diagram.edit.parts.ValueObjectEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueObjectEditPart is never used
+----------
+----------
+349. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueActivityValueActivityCompartmentDiagramItemSemanticEditPolicy.java (at line 12)
+	import e3value.diagram.edit.commands.ValueObjectCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueObjectCreateCommand is never used
+----------
+----------
+350. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueInterfaceValuePortInCompartmentDiagramCanonicalEditPolicy.java (at line 26)
+	import e3value.diagram.edit.parts.ValuePortOutEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortOutEditPart is never used
+----------
+----------
+351. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueInterfaceValuePortInCompartmentDiagramItemSemanticEditPolicy.java (at line 7)
+	import e3value.diagram.edit.commands.ValuePortOutCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValuePortOutCreateCommand is never used
+----------
+----------
+352. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueObjectItemSemanticEditPolicy.java (at line 15)
+	import org.eclipse.gmf.runtime.emf.type.core.requests.ReorientRelationshipRequest;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.requests.ReorientRelationshipRequest is never used
+----------
+353. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueObjectItemSemanticEditPolicy.java (at line 19)
+	import e3value.diagram.edit.commands.ValueExchangeCreateCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueExchangeCreateCommand is never used
+----------
+354. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueObjectItemSemanticEditPolicy.java (at line 22)
+	import e3value.diagram.edit.commands.ValueExchangeReorientCommand;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.commands.ValueExchangeReorientCommand is never used
+----------
+355. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueObjectItemSemanticEditPolicy.java (at line 23)
+	import e3value.diagram.edit.parts.ValueExchangeEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeEditPart is never used
+----------
+356. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/edit/policies/ValueObjectItemSemanticEditPolicy.java (at line 25)
+	import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart is never used
+----------
+----------
+357. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueAbstractNavigatorItem.java (at line 17)
+	final Class[] supportedTypes = new Class[] { ITabbedPropertySheetPageContributor.class };
+	      ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+358. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueAbstractNavigatorItem.java (at line 25)
+	public Object getAdapter(Object adaptableObject, Class adapterType) {
+	       ^^^^^^
+Type safety: The return type Object for getAdapter(Object, Class) from the type new IAdapterFactory(){} needs unchecked conversion to conform to T from the type IAdapterFactory
+----------
+359. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueAbstractNavigatorItem.java (at line 25)
+	public Object getAdapter(Object adaptableObject, Class adapterType) {
+	                                                 ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+360. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueAbstractNavigatorItem.java (at line 33)
+	public Class[] getAdapterList() {
+	       ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+361. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueAbstractNavigatorItem.java (at line 33)
+	public Class[] getAdapterList() {
+	       ^^^^^^^
+Type safety: The return type Class[] for getAdapterList() from the type new IAdapterFactory(){} needs unchecked conversion to conform to Class<?>[] from the type IAdapterFactory
+----------
+----------
+362. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 69)
+	myEditingDomain.setResourceToReadOnlyMap(new HashMap() {
+			public Object get(Object key) {
+				if (!containsKey(key)) {
+					put(key, Boolean.TRUE);
+				}
+				return super.get(key);
+			}
+		});
+	                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The expression of type new HashMap(){} needs unchecked conversion to conform to Map<Resource,Boolean>
+----------
+363. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 69)
+	myEditingDomain.setResourceToReadOnlyMap(new HashMap() {
+	                                             ^^^^^^^
+HashMap is a raw type. References to generic type HashMap<K,V> should be parameterized
+----------
+364. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 69)
+	myEditingDomain.setResourceToReadOnlyMap(new HashMap() {
+	                                             ^^^^^^^^^
+The serializable class  does not declare a static final serialVersionUID field of type long
+----------
+365. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 72)
+	put(key, Boolean.TRUE);
+	^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method put(Object, Object) belongs to the raw type HashMap. References to generic type HashMap<K,V> should be parameterized
+----------
+366. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 202)
+	Collection result = new ArrayList();
+	^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+367. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 202)
+	Collection result = new ArrayList();
+	                        ^^^^^^^^^
+ArrayList is a raw type. References to generic type ArrayList<E> should be parameterized
+----------
+368. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorContentProvider.java (at line 205)
+	result.add(new E3valueDomainNavigatorItem((EObject) objects[i],
+						parentElement, myAdapterFctoryContentProvier));
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type Collection. References to generic type Collection<E> should be parameterized
+----------
+----------
+369. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorItem.java (at line 20)
+	final Class[] supportedTypes = new Class[] { EObject.class,
+	      ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+370. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorItem.java (at line 24)
+	public Object getAdapter(Object adaptableObject, Class adapterType) {
+	       ^^^^^^
+Type safety: The return type Object for getAdapter(Object, Class) from the type new IAdapterFactory(){} needs unchecked conversion to conform to T from the type IAdapterFactory
+----------
+371. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorItem.java (at line 24)
+	public Object getAdapter(Object adaptableObject, Class adapterType) {
+	                                                 ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+372. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorItem.java (at line 40)
+	public Class[] getAdapterList() {
+	       ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+373. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueDomainNavigatorItem.java (at line 40)
+	public Class[] getAdapterList() {
+	       ^^^^^^^
+Type safety: The return type Class[] for getAdapterList() from the type new IAdapterFactory(){} needs unchecked conversion to conform to Class<?>[] from the type IAdapterFactory
+----------
+----------
+374. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorGroup.java (at line 24)
+	private Collection myChildren = new LinkedList();
+	        ^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+375. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorGroup.java (at line 24)
+	private Collection myChildren = new LinkedList();
+	                                    ^^^^^^^^^^
+LinkedList is a raw type. References to generic type LinkedList<E> should be parameterized
+----------
+376. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorGroup.java (at line 59)
+	public void addChildren(Collection children) {
+	                        ^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+377. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorGroup.java (at line 60)
+	myChildren.addAll(children);
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method addAll(Collection) belongs to the raw type Collection. References to generic type Collection<E> should be parameterized
+----------
+378. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorGroup.java (at line 67)
+	myChildren.add(child);
+	^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type Collection. References to generic type Collection<E> should be parameterized
+----------
+----------
+379. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorItem.java (at line 18)
+	final Class[] supportedTypes = new Class[] { View.class, EObject.class };
+	      ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+380. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorItem.java (at line 21)
+	public Object getAdapter(Object adaptableObject, Class adapterType) {
+	       ^^^^^^
+Type safety: The return type Object for getAdapter(Object, Class) from the type new IAdapterFactory(){} needs unchecked conversion to conform to T from the type IAdapterFactory
+----------
+381. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorItem.java (at line 21)
+	public Object getAdapter(Object adaptableObject, Class adapterType) {
+	                                                 ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+382. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorItem.java (at line 30)
+	public Class[] getAdapterList() {
+	       ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+383. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/navigator/E3valueNavigatorItem.java (at line 30)
+	public Class[] getAdapterList() {
+	       ^^^^^^^
+Type safety: The return type Class[] for getAdapterList() from the type new IAdapterFactory(){} needs unchecked conversion to conform to Class<?>[] from the type IAdapterFactory
+----------
+----------
+384. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramActionBarContributor.java (at line 18)
+	protected Class getEditorClass() {
+	          ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+385. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 12)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+386. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 15)
+	import org.eclipse.emf.workspace.util.WorkspaceSynchronizer;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.emf.workspace.util.WorkspaceSynchronizer is never used
+----------
+387. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 24)
+	import org.eclipse.gmf.runtime.notation.Diagram;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.Diagram is never used
+----------
+388. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 28)
+	import org.eclipse.jface.viewers.ISelection;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.jface.viewers.ISelection is never used
+----------
+389. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 29)
+	import org.eclipse.jface.viewers.StructuredSelection;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.jface.viewers.StructuredSelection is never used
+----------
+390. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 31)
+	import org.eclipse.jface.wizard.ProgressMonitorPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.jface.wizard.ProgressMonitorPart is never used
+----------
+391. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 33)
+	import org.eclipse.swt.SWT;
+	       ^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.SWT is never used
+----------
+392. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 34)
+	import org.eclipse.swt.graphics.Image;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.graphics.Image is never used
+----------
+393. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 35)
+	import org.eclipse.swt.layout.GridData;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.layout.GridData is never used
+----------
+394. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 36)
+	import org.eclipse.swt.layout.GridLayout;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.layout.GridLayout is never used
+----------
+395. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 37)
+	import org.eclipse.swt.widgets.Display;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.swt.widgets.Display is never used
+----------
+396. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 46)
+	import org.eclipse.ui.navigator.resources.ProjectExplorer;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.navigator.resources.ProjectExplorer is never used
+----------
+397. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 48)
+	import org.eclipse.ui.part.IShowInTargetList;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.part.IShowInTargetList is never used
+----------
+398. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 51)
+	import e3value.diagram.edit.parts.utils.E3ValueEditPartUtils;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.utils.E3ValueEditPartUtils is never used
+----------
+399. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramEditor.java (at line 52)
+	import e3value.diagram.navigator.E3valueNavigatorItem;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.navigator.E3valueNavigatorItem is never used
+----------
+----------
+400. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramUpdateCommand.java (at line 52)
+	List editPolicies = CanonicalEditPolicy
+	^^^^
+List is a raw type. References to generic type List<E> should be parameterized
+----------
+401. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDiagramUpdateCommand.java (at line 54)
+	for (Iterator it = editPolicies.iterator(); it.hasNext();) {
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+402. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 46)
+	import org.eclipse.gmf.runtime.diagram.ui.resources.editor.internal.EditorStatusCodes;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The type 'EditorStatusCodes' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+403. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 47)
+	import org.eclipse.gmf.runtime.diagram.ui.resources.editor.internal.util.DiagramIOUtil;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The type 'DiagramIOUtil' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+404. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 209)
+	Diagram diagram = DiagramIOUtil.load(domain, storage, true,
+	                  ^^^^^^^^^^^^^
+Discouraged access: The type 'DiagramIOUtil' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+405. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 209)
+	Diagram diagram = DiagramIOUtil.load(domain, storage, true,
+					getProgressMonitor());
+	                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The method 'DiagramIOUtil.load(TransactionalEditingDomain, IStorage, boolean, IProgressMonitor)' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+406. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 224)
+	Map options = new HashMap(
+	^^^
+Map is a raw type. References to generic type Map<K,V> should be parameterized
+----------
+407. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 224)
+	Map options = new HashMap(
+								GMFResourceFactory.getDefaultLoadOptions());
+	              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The constructor HashMap(Map) belongs to the raw type HashMap. References to generic type HashMap<K,V> should be parameterized
+----------
+408. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 224)
+	Map options = new HashMap(
+	                  ^^^^^^^
+HashMap is a raw type. References to generic type HashMap<K,V> should be parameterized
+----------
+409. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 241)
+	for (Iterator it = resource.getContents().iterator(); it
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+410. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 614)
+	EditorStatusCodes.RESOURCE_FAILURE,
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Discouraged access: The type 'EditorStatusCodes' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+411. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 614)
+	EditorStatusCodes.RESOURCE_FAILURE,
+	                  ^^^^^^^^^^^^^^^^
+Discouraged access: The field 'EditorStatusCodes.RESOURCE_FAILURE' is not API (restriction on classpath entry '/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.gmf.runtime.diagram.ui.resources.editor_1.7.0.201506060219.jar')
+----------
+412. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueDocumentProvider.java (at line 1094)
+	for (Iterator/*<org.eclipse.emf.ecore.resource.Resource>*/it = myInfo
+	     ^^^^^^^^
+Iterator is a raw type. References to generic type Iterator<E> should be parameterized
+----------
+----------
+413. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueInitDiagramFileAction.java (at line 22)
+	import e3value.diagram.edit.parts.E3ValueModelEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.E3ValueModelEditPart is never used
+----------
+----------
+414. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueNewDiagramFileWizard.java (at line 32)
+	import e3value.diagram.edit.parts.E3ValueModelEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.E3ValueModelEditPart is never used
+----------
+----------
+415. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valuePaletteFactory.java (at line 10)
+	import org.eclipse.gef.palette.PaletteGroup;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gef.palette.PaletteGroup is never used
+----------
+----------
+416. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/part/E3valueVisualIDRegistry.java (at line 46)
+	import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart is never used
+----------
+----------
+417. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueEditPartProvider.java (at line 6)
+	import e3value.diagram.edit.parts.E3ValueModelEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.E3ValueModelEditPart is never used
+----------
+----------
+418. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueElementTypes.java (at line 36)
+	import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart is never used
+----------
+419. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueElementTypes.java (at line 39)
+	import e3value.diagram.edit.parts.ValuePortIn2EditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortIn2EditPart is never used
+----------
+----------
+420. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueModelingAssistantProvider.java (at line 50)
+	protected EObject selectExistingElement(IAdaptable host, Collection types) {
+	                                                         ^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+421. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueModelingAssistantProvider.java (at line 78)
+	protected boolean isApplicableElement(EObject element, Collection types) {
+	                                                       ^^^^^^^^^^
+Collection is a raw type. References to generic type Collection<E> should be parameterized
+----------
+----------
+422. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueParserProvider.java (at line 201)
+	public Object getAdapter(Class adapter) {
+	                         ^^^^^
+Class is a raw type. References to generic type Class<T> should be parameterized
+----------
+----------
+423. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 24)
+	import org.eclipse.gmf.runtime.notation.Connector;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.notation.Connector is never used
+----------
+424. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 79)
+	import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueExchangeToValueObjectConnectionEditPart is never used
+----------
+425. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 86)
+	import e3value.diagram.edit.parts.ValuePortIn2EditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortIn2EditPart is never used
+----------
+426. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 265)
+	diagram.getStyles().add(NotationFactory.eINSTANCE.createDiagramStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+427. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 427)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+428. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 429)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+429. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 430)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFillStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+430. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 458)
+	Node label5009 = createLabel(node,
+	     ^^^^^^^^^
+The value of the local variable label5009 is not used
+----------
+431. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 476)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+432. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 478)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+433. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 479)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFillStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+434. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 532)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+435. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 534)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+436. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 535)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFillStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+437. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 573)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+438. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 575)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+439. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 576)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFillStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+440. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 614)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+441. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 616)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+442. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 617)
+	node.getStyles().add(NotationFactory.eINSTANCE.createLineStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+443. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 656)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+444. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 658)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+445. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 681)
+	Node label5005 = createLabel(node,
+	     ^^^^^^^^^
+The value of the local variable label5005 is not used
+----------
+446. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 699)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+447. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 701)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+448. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 734)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+449. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 736)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+450. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 819)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+451. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 821)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+452. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 822)
+	node.getStyles().add(NotationFactory.eINSTANCE.createLineStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+453. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 861)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+454. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 863)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+455. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 864)
+	node.getStyles().add(NotationFactory.eINSTANCE.createLineStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+456. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1056)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+457. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1058)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+458. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1081)
+	Node label5003 = createLabel(node,
+	     ^^^^^^^^^
+The value of the local variable label5003 is not used
+----------
+459. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1099)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+460. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1101)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+461. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1124)
+	Node label5004 = createLabel(node,
+	     ^^^^^^^^^
+The value of the local variable label5004 is not used
+----------
+462. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1142)
+	node.getStyles()
+				.add(NotationFactory.eINSTANCE.createDescriptionStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+463. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1144)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+464. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1145)
+	node.getStyles().add(NotationFactory.eINSTANCE.createFillStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+465. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1173)
+	Node label5013 = createLabel(node,
+	     ^^^^^^^^^
+The value of the local variable label5013 is not used
+----------
+466. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1186)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createRoutingStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+467. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1187)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+468. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1233)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createRoutingStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+469. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1234)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+470. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1281)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createRoutingStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+471. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1282)
+	edge.getStyles().add(NotationFactory.eINSTANCE.createFontStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+472. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1365)
+	rv.getStyles().add(ts);
+	^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+473. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1368)
+	rv.getStyles().add(NotationFactory.eINSTANCE.createSortingStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+474. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/E3valueViewProvider.java (at line 1371)
+	rv.getStyles()
+					.add(NotationFactory.eINSTANCE.createFilteringStyle());
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Type safety: The method add(Object) belongs to the raw type List. References to generic type List<E> should be parameterized
+----------
+----------
+475. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 3)
+	import java.util.ArrayList;
+	       ^^^^^^^^^^^^^^^^^^^
+The import java.util.ArrayList is never used
+----------
+476. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 4)
+	import java.util.LinkedList;
+	       ^^^^^^^^^^^^^^^^^^^^
+The import java.util.LinkedList is never used
+----------
+477. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 5)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+478. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 7)
+	import org.eclipse.core.runtime.IAdaptable;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.core.runtime.IAdaptable is never used
+----------
+479. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 8)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart is never used
+----------
+480. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 9)
+	import org.eclipse.gmf.runtime.emf.type.core.IElementType;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.IElementType is never used
+----------
+481. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 11)
+	import e3value.diagram.edit.parts.E3ValueModelEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.E3ValueModelEditPart is never used
+----------
+482. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 12)
+	import e3value.diagram.edit.parts.ValueObjectEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueObjectEditPart is never used
+----------
+483. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfE3ValueModelEditPart.java (at line 13)
+	import e3value.diagram.providers.E3valueElementTypes;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.providers.E3valueElementTypes is never used
+----------
+----------
+484. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 3)
+	import java.util.ArrayList;
+	       ^^^^^^^^^^^^^^^^^^^
+The import java.util.ArrayList is never used
+----------
+485. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 4)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+486. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 5)
+	import org.eclipse.core.runtime.IAdaptable;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.core.runtime.IAdaptable is never used
+----------
+487. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 6)
+	import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.diagram.ui.editparts.IGraphicalEditPart is never used
+----------
+488. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 7)
+	import org.eclipse.gmf.runtime.emf.type.core.IElementType;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.gmf.runtime.emf.type.core.IElementType is never used
+----------
+489. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 8)
+	import e3value.diagram.edit.parts.ValueObjectEditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValueObjectEditPart is never used
+----------
+490. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValueObjectEditPart.java (at line 9)
+	import e3value.diagram.providers.E3valueElementTypes;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.providers.E3valueElementTypes is never used
+----------
+----------
+491. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/providers/assistants/E3valueModelingAssistantProviderOfValuePortOutEditPart.java (at line 9)
+	import e3value.diagram.edit.parts.ValuePortIn2EditPart;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.edit.parts.ValuePortIn2EditPart is never used
+----------
+----------
+492. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/e3value/diagram/sheet/E3valueSheetLabelProvider.java (at line 11)
+	import e3value.diagram.navigator.E3valueNavigatorGroup;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import e3value.diagram.navigator.E3valueNavigatorGroup is never used
+----------
+----------
+493. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortAndJoin.java (at line 3)
+	import java.awt.LayoutManager;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import java.awt.LayoutManager is never used
+----------
+494. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortAndJoin.java (at line 4)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+495. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortAndJoin.java (at line 6)
+	import org.eclipse.core.runtime.IAdaptable;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.core.runtime.IAdaptable is never used
+----------
+496. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortAndJoin.java (at line 8)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+----------
+497. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortOrJoin.java (at line 3)
+	import java.awt.LayoutManager;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import java.awt.LayoutManager is never used
+----------
+498. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortOrJoin.java (at line 4)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+499. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortOrJoin.java (at line 6)
+	import org.eclipse.core.runtime.IAdaptable;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.core.runtime.IAdaptable is never used
+----------
+500. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddInputPortOrJoin.java (at line 8)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+----------
+501. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortAndFork.java (at line 3)
+	import java.awt.LayoutManager;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import java.awt.LayoutManager is never used
+----------
+502. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortAndFork.java (at line 4)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+503. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortAndFork.java (at line 6)
+	import org.eclipse.core.runtime.IAdaptable;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.core.runtime.IAdaptable is never used
+----------
+504. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortAndFork.java (at line 8)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+----------
+505. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortOrFork.java (at line 3)
+	import java.awt.LayoutManager;
+	       ^^^^^^^^^^^^^^^^^^^^^^
+The import java.awt.LayoutManager is never used
+----------
+506. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortOrFork.java (at line 4)
+	import java.util.List;
+	       ^^^^^^^^^^^^^^
+The import java.util.List is never used
+----------
+507. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortOrFork.java (at line 6)
+	import org.eclipse.core.runtime.IAdaptable;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.core.runtime.IAdaptable is never used
+----------
+508. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/es/kybele/elastic/models/e3value/diagram/actions/AddOutputPortOrFork.java (at line 8)
+	import org.eclipse.draw2d.geometry.Point;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.draw2d.geometry.Point is never used
+----------
+----------
+509. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/org/kybele/elastic/e3value/utils/E3ValueUtils.java (at line 7)
+	import org.eclipse.ui.console.ConsolePlugin;
+	       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The import org.eclipse.ui.console.ConsolePlugin is never used
+----------
+510. WARNING in /Users/angel/eclipse_projects/es.kybele.elastic.models.e3value.diagram/src/org/kybele/elastic/e3value/utils/E3ValueUtils.java (at line 36)
+	int count = 0;
+	    ^^^^^
+The value of the local variable count is not used
+----------
+510 problems (510 warnings)
